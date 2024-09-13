@@ -21,3 +21,11 @@ Conceepto de Rama
   para añadir traccked en Git 
         git add para añadir al repositorio
         git commit
+
+  git log --graph --pretty=oneline
+  git log --graph --decorate --all --oneline
+
+
+  git config --global alias.tree "log --graph --decorate --all --oneline"   // Crear un alias
+
+  Añadir para ignorar ficheros  -- touch .gitignore

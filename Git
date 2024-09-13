@@ -1,0 +1,23 @@
+git --version
+git -h // git --version  --- para ver la ayuda de git
+
+Comandos principales de GIT BASH
+
+  Para configurar GIT necesitamos un user y un mail
+
+      git config --global user.name "Adri"  - se crea un fichero en la carpeta del user 
+      git config --global user.mail "asimonr@gmail.com"
+
+Arrancar el control de versiones
+      git init
+
+Conceepto de Rama
+   Master es la por defecto, es como una rama de arbol (Main, trunk)
+
+  Git ADD y Git Commit
+
+  git status --> para ver el estado del repositorio
+
+  para añadir traccked en Git 
+        git add para añadir al repositorio
+        git commit

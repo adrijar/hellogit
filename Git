@@ -29,36 +29,3 @@ Conceepto de Rama
   git config --global alias.tree "log --graph --decorate --all --oneline"   // Crear un alias
 
   Añadir para ignorar ficheros  -- touch .gitignore
-
-  git diff  --- para ver las diferencias
-
-  git reset --hard  id del commit // descartar cambios 
-  
-  git reflog  // para rehacer reset hard y se ve todo el log 
-
-  tag -- para etiquetar // commits; se emplean para hacer referencia a puntos importantes  (Suelen hacer para las versiones)
-
-  Trabajar con Ramas (Branch) -- Comando para  
-
-            git branch login --> Crear
-
-            git switch  login --> Cambiar a la rama login
-
- git diff  --- para ver las diferencias
-
-  git reset --hard  id del commit // descartar cambios 
-  
-  git reflog  // para rehacer reset hard y se ve todo el log 
-
-  tag -- para etiquetar // commits; se emplean para hacer referencia a puntos importantes  (Suelen hacer para las versiones)
-
-  Trabajar con Ramas (Branch) -- Comando para  
-
-            git branch login --> Crear
-
-            git switch  login --> Cambiar a la rama login
-
-
-
-
-  

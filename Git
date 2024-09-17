@@ -29,3 +29,7 @@ Conceepto de Rama
   git config --global alias.tree "log --graph --decorate --all --oneline"   // Crear un alias
 
   Añadir para ignorar ficheros  -- touch .gitignore
+
+  git diff  --- para ver las diferencias
+
+  
